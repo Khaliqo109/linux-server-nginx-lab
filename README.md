@@ -41,16 +41,16 @@ In this project, I set up a Linux server using Ubuntu in a virtual environment a
 ## 📸 Screenshots
 
 ### Nginx Running
-![Nginx Running](./screenshots/nginx-running.png)
+![Nginx Running](./Screenshots/nginx-running.png)
 
 ### Nginx Stopped
-![Nginx Stopped](./screenshots/nginx-stopped.png)
+![Nginx Stopped](./Screenshots/nginx-stopped.png)
 
 ### IP Address Output
-![IP Address](./screenshots/ip-a.png)
+![IP Address](./Screenshots/ip-a.png)
 
 ### Ping Test
-![Ping Test](./screenshots/ping.png)
+![Ping Test](./Screenshots/ping.png)
 
 ---
 
